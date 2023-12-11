@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+  color: rgb(249, 249, 249);
+  padding: 0.8rem;
+}
+
+.navlink {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
