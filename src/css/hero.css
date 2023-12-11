@@ -1,11 +1,12 @@
 .hero-container {
-  background: linear-gradient(rgba(0, 0, 0, 0.581), rgba(214, 214, 214, 0.332)),
+  background: linear-gradient(rgba(0, 0, 0, 0.281), rgba(214, 214, 214, 0.332)),
     url("/toomas-tartes-Yizrl9N_eDA-unsplash.jpg");
   padding-top: -5rem;
   padding: 5rem;
   min-height: 90vh;
   background-size: cover;
   overflow: hidden;
+  margin-bottom: 1rem;
 }
 
 .main-content {

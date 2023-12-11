@@ -37,7 +37,7 @@ export default function HeroSection() {
           display: "flex",
           flexDirection: "column ",
           alignItems: "flex-start",
-          marginTop: "-5rem",
+          marginTop: "15rem",
         }}
         className="main-content"
       >

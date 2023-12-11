@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/belowTheFold.css";
 
 export default function BelowTheFold() {
   return (
