@@ -52,7 +52,7 @@ export default function HeroSection() {
               textShadow: "2px 2px 4px rgba(0, 0, 0, 0.25)", // add text shadow
             }}
           >
-            Find your Trail <br style={{ paddingBottom: "2rem" }} /> Discover
+            Find your Trail's <br style={{ paddingBottom: "2rem" }} /> Discover
             your Story
           </h5>
         </div>
